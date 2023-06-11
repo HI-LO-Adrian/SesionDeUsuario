@@ -1,0 +1,14 @@
+Nombre: Gustavo Adrian Mendoza Monroy
+Periodo: 20-2324
+Semestre: 2°SEMESTRE
+Materia: Programacion Orientada a Objetos
+
+Aspecto: 	Unidad: 	Calififcacion: 
+Calificación	  1: 		100
+Calificación	  2: 		100
+Calificación	  3: 		100
+Calificacion	  4: 		90
+Calificación	  5: 		90
+Calificación	  6: 		100
+
+Promedio: 96.0

@@ -26,7 +26,7 @@ public class Sesion extends JFrame {
     private JButton aceptar, cancelar, ayuda;
     private JPanel norte, central, sur;
     String usuario = "Adrian", contraseña = "1234";
-    int contador = 0, numeroDeIntentos = 3;
+    int contador = 0, numeroDeIntentos = 4;
 
     public Sesion() {
         Acciones realizaAcciones = new Acciones();

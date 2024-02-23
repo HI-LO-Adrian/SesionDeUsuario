@@ -16,7 +16,6 @@ import javax.swing.JPasswordField;
 import javax.swing.SwingConstants;
 //paquete de color y fondo
 import java.awt.Color;
-import java.awt.Font;
 import javax.swing.JOptionPane;
 
 public class Sesion extends JFrame {

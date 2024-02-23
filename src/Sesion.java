@@ -25,7 +25,7 @@ public class Sesion extends JFrame {
     private JLabel texto1, texto2, titulo, textoAyuda;
     private JButton aceptar, cancelar, ayuda;
     private JPanel norte, central, sur;
-    String usuario = "Adrian", contraseña = "1234";
+    String usuario = "AdrianGa", contraseña = "123456";
     int contador = 0, numeroDeIntentos = 4;
 
     public Sesion() {
